@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-26T15:32:12.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="pZD_67jSFBJnWfBR9G5t" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T10:16:41.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="m1cPrPOuyB5PwyOjnjNZ" version="22.1.11" type="github">
   <diagram name="Page-1" id="6D-KBG7w9vJMpB0vQ2XN">
     <mxGraphModel dx="1105" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -7,8 +7,11 @@
         <mxCell id="gUXdnllzTBBw982GACLl-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-1" target="gUXdnllzTBBw982GACLl-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="gUXdnllzTBBw982GACLl-48" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-1" target="gUXdnllzTBBw982GACLl-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-1" value="Idle" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="110" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-5" target="gUXdnllzTBBw982GACLl-13">
           <mxGeometry relative="1" as="geometry" />
@@ -22,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-5" value="Check connectivity" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="325" y="230" width="110" height="110" as="geometry" />
+          <mxGeometry x="575" y="220" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-25" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-13" target="gUXdnllzTBBw982GACLl-23">
           <mxGeometry relative="1" as="geometry" />
@@ -33,7 +36,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-13" value="Wi-Fi &lt;br style=&quot;font-size: 14px;&quot;&gt;Connected" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="325" y="415" width="110" height="110" as="geometry" />
+          <mxGeometry x="575" y="405" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-24" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-14" target="gUXdnllzTBBw982GACLl-23">
           <mxGeometry relative="1" as="geometry" />
@@ -44,13 +47,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-14" value="LTE&lt;br&gt;Connected" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="630" y="400" width="110" height="110" as="geometry" />
+          <mxGeometry x="880" y="390" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-16" target="gUXdnllzTBBw982GACLl-13">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="816" y="370" />
-              <mxPoint x="419" y="370" />
+              <mxPoint x="1066" y="360" />
+              <mxPoint x="669" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -60,10 +63,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-16" value="Attempt Wi-Fi connection" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="800" y="230" width="110" height="110" as="geometry" />
+          <mxGeometry x="1050" y="220" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gUXdnllzTBBw982GACLl-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-22" target="gUXdnllzTBBw982GACLl-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-22" value="WDC Enabled" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="80" y="430" width="110" height="110" as="geometry" />
+          <mxGeometry x="370" y="405" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-23" target="gUXdnllzTBBw982GACLl-29">
           <mxGeometry relative="1" as="geometry" />
@@ -90,16 +96,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-23" value="Check for any SSID with _O" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="470" y="620" width="110" height="110" as="geometry" />
+          <mxGeometry x="720" y="610" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-29" value="Broadcast AP with _H" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="340" y="770" width="110" height="110" as="geometry" />
+          <mxGeometry x="590" y="760" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-39" target="gUXdnllzTBBw982GACLl-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-39" value="Not Connected to Cloud" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="580" y="230" width="110" height="110" as="geometry" />
+          <mxGeometry x="830" y="220" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-43" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-16" target="gUXdnllzTBBw982GACLl-14">
           <mxGeometry relative="1" as="geometry" />
@@ -108,6 +114,15 @@
           <mxGeometry x="-0.2874" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="gUXdnllzTBBw982GACLl-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-47" target="gUXdnllzTBBw982GACLl-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gUXdnllzTBBw982GACLl-47" value="WDC Command Received" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="220" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="gUXdnllzTBBw982GACLl-52" value="Wi-Fi Credentials received" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="370" y="580" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
