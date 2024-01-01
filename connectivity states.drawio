@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T08:28:34.928Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="tFIRL2JQP5q41qaLDy4k" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-01T09:48:55.561Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1Mu5vNnMDJKytZmJI3Gz" version="22.1.16" type="github">
   <diagram name="Page-1" id="6D-KBG7w9vJMpB0vQ2XN">
     <mxGraphModel dx="1313" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -107,7 +107,7 @@
         <mxCell id="gUXdnllzTBBw982GACLl-39" value="Not Connected to Cloud" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="830" y="220" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gUXdnllzTBBw982GACLl-43" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="gUXdnllzTBBw982GACLl-16" target="gUXdnllzTBBw982GACLl-14" edge="1">
+        <mxCell id="gUXdnllzTBBw982GACLl-43" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="gUXdnllzTBBw982GACLl-16" target="F5l_VZ7qLp2WG0le40Af-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-44" value="Not Connected to Wi-Fi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="gUXdnllzTBBw982GACLl-43" vertex="1" connectable="0">
@@ -134,6 +134,9 @@
         </mxCell>
         <mxCell id="IEpSdRhwynJNCB4oIvQQ-1" value="Read/Load Configuration File" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="170" y="295" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="F5l_VZ7qLp2WG0le40Af-1" value="HUB Attempt&amp;nbsp; LTE connection" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="405" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
