@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T11:16:40.534Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="abM5iRPjlaJFdgca-_mE" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-01T11:31:48.818Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="d_MlKNxFjUWlwaWXHQtv" version="22.1.16" type="github">
   <diagram name="Page-1" id="6D-KBG7w9vJMpB0vQ2XN">
     <mxGraphModel dx="1615" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1600" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="gUXdnllzTBBw982GACLl-48" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="gUXdnllzTBBw982GACLl-1" target="gUXdnllzTBBw982GACLl-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gUXdnllzTBBw982GACLl-1" value="Idle" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="gUXdnllzTBBw982GACLl-1" value="Idle" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="570" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="gUXdnllzTBBw982GACLl-5" target="gUXdnllzTBBw982GACLl-13" edge="1">
@@ -49,12 +49,12 @@
         <mxCell id="gUXdnllzTBBw982GACLl-14" value="LTE&lt;br style=&quot;font-size: 14px;&quot;&gt;Connected" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;fontStyle=1;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="880" y="407.5" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gUXdnllzTBBw982GACLl-45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gUXdnllzTBBw982GACLl-16" target="gUXdnllzTBBw982GACLl-13" edge="1">
+        <mxCell id="gUXdnllzTBBw982GACLl-45" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="gUXdnllzTBBw982GACLl-16" target="gUXdnllzTBBw982GACLl-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1105" y="360" />
-              <mxPoint x="720" y="360" />
-              <mxPoint x="720" y="463" />
+              <mxPoint x="800" y="360" />
+              <mxPoint x="800" y="462" />
             </Array>
             <mxPoint x="920" y="440" as="sourcePoint" />
           </mxGeometry>
@@ -70,8 +70,8 @@
         <mxCell id="gUXdnllzTBBw982GACLl-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="gUXdnllzTBBw982GACLl-22" target="gUXdnllzTBBw982GACLl-52" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="gUXdnllzTBBw982GACLl-22" value="WDC Enabled" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="370" y="405" width="110" height="110" as="geometry" />
+        <mxCell id="gUXdnllzTBBw982GACLl-22" value="WDC Enabled" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="370" y="407.5" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-30" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="gUXdnllzTBBw982GACLl-23" target="gUXdnllzTBBw982GACLl-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -117,7 +117,7 @@
         </mxCell>
         <mxCell id="gUXdnllzTBBw982GACLl-44" value="Not Connected to Wi-Fi" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="gUXdnllzTBBw982GACLl-43" vertex="1" connectable="0">
           <mxGeometry x="-0.2874" relative="1" as="geometry">
-            <mxPoint y="51" as="offset" />
+            <mxPoint y="69" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IEpSdRhwynJNCB4oIvQQ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="gUXdnllzTBBw982GACLl-47" target="IEpSdRhwynJNCB4oIvQQ-1" edge="1">
@@ -126,8 +126,11 @@
         <mxCell id="gUXdnllzTBBw982GACLl-47" value="WDC Command Received from MCU" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="370" y="220" width="110" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="gUXdnllzTBBw982GACLl-52" value="Wi-Fi Credentials received" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="370" y="600" width="110" height="110" as="geometry" />
+        <mxCell id="F5l_VZ7qLp2WG0le40Af-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gUXdnllzTBBw982GACLl-52" target="F5l_VZ7qLp2WG0le40Af-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gUXdnllzTBBw982GACLl-52" value="Get list of Wi-Fi APs" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="370" y="592" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="IEpSdRhwynJNCB4oIvQQ-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;curved=1;" parent="1" source="IEpSdRhwynJNCB4oIvQQ-1" target="gUXdnllzTBBw982GACLl-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -138,7 +141,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IEpSdRhwynJNCB4oIvQQ-1" value="Read/Load Configuration File" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="170" y="295" width="110" height="110" as="geometry" />
+          <mxGeometry x="160" y="310" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="F5l_VZ7qLp2WG0le40Af-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F5l_VZ7qLp2WG0le40Af-1" target="F5l_VZ7qLp2WG0le40Af-2">
           <mxGeometry relative="1" as="geometry" />
@@ -169,6 +172,15 @@
         </mxCell>
         <mxCell id="F5l_VZ7qLp2WG0le40Af-2" value="Success?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="1185" y="572.5" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F5l_VZ7qLp2WG0le40Af-12" value="Connect to Desired AP" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="792.5" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="F5l_VZ7qLp2WG0le40Af-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="F5l_VZ7qLp2WG0le40Af-16" target="F5l_VZ7qLp2WG0le40Af-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F5l_VZ7qLp2WG0le40Af-16" value="Send Wi-Fi AP list to MQTT" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=14;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="592" width="110" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
