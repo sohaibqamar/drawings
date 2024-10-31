@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Page-1" id="DCz_qoyEs13wIHIU9r2-">
-    <mxGraphModel dx="2311" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2500" math="0" shadow="0">
+    <mxGraphModel dx="3004" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="2500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -301,7 +301,7 @@
         <mxCell id="4WO7JMxw1xyXEHN4cRK8-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WO7JMxw1xyXEHN4cRK8-25" target="1noEsMnAWFIkvE6AnAer-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4WO7JMxw1xyXEHN4cRK8-25" value="Switch Network Mode" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF66B3;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="4WO7JMxw1xyXEHN4cRK8-25" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;Switch Network Mode&lt;/blockquote&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FF66B3;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="225.005" y="670" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="4WO7JMxw1xyXEHN4cRK8-30" value="Configure PPP Modem Events" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
